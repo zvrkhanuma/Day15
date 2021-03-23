@@ -1,0 +1,85 @@
+#nav_bar {
+    text-align: center;
+    padding-top: 200px;
+}
+.nav-links{
+
+}
+#gmail{
+
+}
+#images{
+
+}
+#sign_in{
+
+}
+.google-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#google_logo{
+
+}
+#buttons{
+
+}
+.buttons{
+    margin-top: 20px;
+    text-align: center;
+    height: 30px;
+}
+#google_search{
+    width: 400px;
+    height: 25px;
+    margin-top: -30px;
+}
+#form-search{
+    text-align: center;
+    padding-top: 200px;
+}
+#im_feeling_lucky{
+    margin-left: 10px;
+}
+#footer-left{
+    padding-left: 25px;
+    font-size: 13px;
+    padding-top: 15px;
+    color: rgba(0,0,0,.54); 
+    background: #f2f2f2;
+    position: absolute;
+    float: left;
+    padding-right: 800px;
+    bottom: 0.5%;
+    left: 0%;}
+#footer-ritgh{
+    padding-right: 25px;
+    font-size: 13px;
+    padding-top: 15px;
+    color: rgba(0,0,0,.54);
+    background: #f2f2f2;
+    position: absolute;
+    float: right;
+    padding-left: 800px;
+    bottom: 0.5%;
+    right: 0%;
+}
+#Advertising{
+
+}
+#Bussines{
+
+}
+#About{
+
+}
+#Privacy{
+
+}
+#Terms{
+
+}
+#Setting{
+
+}
